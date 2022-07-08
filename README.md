@@ -70,5 +70,11 @@ Open the application on your browser:
 http://localhost:3030/
 ```
 
+Default login credentials (Administrator):
+```go
+Email: admin@dit.ac.tz
+Password: dit@2022
+```
+
 ## Assistance
 For any assistance on this project, email to [Mohamed Hassan](mailto:mohdalhassan2012@gmail.com "Mohamed Hassan").
